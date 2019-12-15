@@ -88,7 +88,7 @@
     "    # initializing starting number\n",
     "    num = 1\n",
     "    \n",
-    "    # outer loop to handle number of rowa\n",
+    "    # outer loop to handle number of row\n",
     "    for i in range(0, n):\n",
     "        \n",
     "        # not re assigning num\n",
