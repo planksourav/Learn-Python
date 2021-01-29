@@ -7,7 +7,8 @@
 
 
 # Learn-Python
-Learn Python 
+
+ ### What we are going to learn
 
 - Python - Basic Syntax
 - Python - Variable Types
