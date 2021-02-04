@@ -8,6 +8,12 @@
 - There are five implementations of the Python language—CPython, Jython, IronPython, Stackless, and PyPy. 
 - The Python interpreter is a program that runs the Python programs you write.
 
+- Python Conceptual Hierarchy 
+    1.	Programs are composed of modules.
+    2.	Modules contain statements.
+    3.	Statements contain expressions. 
+    4.	Expressions create and process objects.
+
 # Learn-Python
 
  ### What we are going to learn
