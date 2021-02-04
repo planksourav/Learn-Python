@@ -6,6 +6,8 @@
 - Python is one of the easy language to learn and communicate with hardware and make your job done.
 
 - There are five implementations of the Python language—CPython, Jython, IronPython, Stackless, and PyPy. 
+- The Python interpreter is a program that runs the Python programs you write.
+
 # Learn-Python
 
  ### What we are going to learn
