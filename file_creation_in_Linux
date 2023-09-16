@@ -1,0 +1,11 @@
+# Specify the file name and path
+file_name = "/path/to/your/file.txt"
+# Attempt to create the file
+try:
+    # Open the file in write mode ('w')
+    with open(file_name, 'w') as file:
+        # You can write content to the file here if needed
+        file.write("This is the content of the file.\n")
+    print(f"File '{file_name}' created successfully.")
+except IOError as e:
+    print(f"An error occurred while creating the file: {e}")
